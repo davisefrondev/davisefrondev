@@ -37,7 +37,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<a href="https://davisefrondev.github.io/davisefrondev-blog/" target="_blank"><img src="https://img.shields.io/badge/-davisefrondev.github.io/davisefrondev-blog-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<!-- <a href="https://davisefrondev.github.io/davisefrondev-blog/" target="_blank"><img src="https://img.shields.io/badge/-davisefrondev.github.io/davisefrondev-blog-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
 <!-- <a href="https://www.linkedin.com/in/davisefrondev/" target="_blank"><img src="https://img.shields.io/badge/-Obasi%20Godstime%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> -->
 <a href="mailto:davisefron6@gmail.com"><img src="https://img.shields.io/badge/-davisefron6@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
